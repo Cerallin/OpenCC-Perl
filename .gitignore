@@ -1,0 +1,14 @@
+Makefile
+Makefile.old
+
+MYMETA.json
+MYMETA.yml
+
+blib/
+OpenCC-*/
+
+*.bs
+*.o
+*.c
+
+pm_to_blib

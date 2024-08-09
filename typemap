@@ -1,0 +1,5 @@
+TYPEMAP
+opencc_t        T_PTROBJ
+
+OUTPUT
+T_PTROBJ        opencc_t
